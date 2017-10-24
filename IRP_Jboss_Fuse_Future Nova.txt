@@ -1,0 +1,55 @@
+
+Generic Java API for AntiVirus
+http://www.theserverside.com/discussions/thread/49244.html
+https://www.opswat.com/products/technologies
+
+How to run Command Line Scanner
+https://kc.mcafee.com/corporate/index?page=content&id=KB51141
+https://kc.mcafee.com/corporate/index?page=content&id=KB75078
+
+McAfee ICAP
+https://kc.mcafee.com/corporate/index?page=content&id=KB81933&actp=null&showDraft=false&platinum_status=false&locale=en_US&viewlocale=en_US
+https://www.mcafee.com/in/resources/data-sheets/ds-web-gateway-reverse-proxy.pdf
+https://kc.mcafee.com/corporate/index?page=content&id=KB59742
+https://github.com/Baekalfen/ICAP-avscan
+https://github.com/Baekalfen/ICAP-avscan/blob/master/Java/ICAP/src/icap_samplecode/ICAP.java
+http://www.developer.com/design/article.php/3711331/Implementing-an-Anti-Virus-File-Scan-in-JEE-Applications.htm
+http://www.clamav.net/
+
+GSNT - CGWintel - Antivirus installed on server vmstaswndevfs02 is McAfee VirusScan Enterprise + AntiSpyware Enterprise 8.7.0i
+
+Training URLs
+https://github.com/vasu34k123
+https://github.com/srinivaskolaparthi
+https://www.osgi.org/
+http://karaf.apache.org/documentation.html
+http://projects.spring.io/spring-boot/
+https://start.spring.io/
+https://docs.spring.io/spring-boot/docs/current/reference/html/common-application-properties.html
+https://docs.jboss.org/tools/4.0.1.Final/en/as/html/perspective.html
+apache camel - http://camel.apache.org/download.html
+	The following projects can leverage Apache Camel as a routing and mediation engine:
+	Apache ServiceMix - a popular distributed open source ESB and JBI container
+	Apache ActiveMQ - a mature, widely used open source message broker
+	Apache CXF - a smart web services suite (JAX-WS and JAX-RS)
+	Apache Karaf - a small OSGi based runtime in which applications can be deployed
+	Apache MINA - a high-performance NIO-driven networking framework
+Karaf Download Location: https://fts.capgemini.com/private/9990054985000/jboss-fuse-karaf-6.3.0.redhat-187.zip
+Fuse IDE: https://fts.capgemini.com/private/23985019248080/FuseIDE-6.0.0.129-win32.win32.x86_64.zip
+GitHub Link for Sample Applications : https://github.com/vasu34k123/JBOSSFUSE
+Camel: http://camel.apache.org/components.html,http://camel.apache.org/
+
+
+REST Webservices-
+http://www.vogella.com/tutorials/REST/article.html
+https://dzone.com/articles/restful-web-services-java
+http://www.java4s.com/web-services/jersey-hello-world-example-using-jax-rs-specification/
+Jersey - https://jersey.github.io/documentation/latest/modules-and-dependencies.html
+
+https://www.youtube.com/watch?v=xkKcdK1u95s&list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn&pbjreload=10
+http://javainuse.com/camel/apache_camel_rest_jaxrs
+https://www.youtube.com/watch?v=5jQSat1cKMo
+
+
+0 * * * * cd folder_containing_exe && ./exe_name
+
